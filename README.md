@@ -68,7 +68,7 @@ student-performance-ml/
 ```
 ```
 How to Run the Project
-Running the Project
+
 1. Clone the repository
 git clone https://github.com/codewithdeniskimutai123/Logistic-Regression_MODEL.git
 
