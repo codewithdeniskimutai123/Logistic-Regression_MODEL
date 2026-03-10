@@ -19,7 +19,7 @@ Email: [petersonmwero@gmail.com]
 
 This project develops a 
 machine learning model to predict whether a student will 
-Pass or Fail** based on academic and demographic factors such as hours studied,
+Pass or Fail based on academic and demographic factors such as hours studied,
 attendance, previous scores, tutoring sessions, and other relevant indicators.
 
 The model uses Logistic Regression
