@@ -36,9 +36,9 @@ The trained model achieved the following results on the test dataset:
 
 * Accuracy: 89.33%
 * Precision: 0.91 (Class 0), 0.83 (Class 1)
-* **Recall: 0.95 (Class 0), 0.74 (Class 1)
-* **F1 Score: 0.93 (Class 0), 0.78 (Class 1)
-* **ROC AUC Score: 0.9569
+* Recall: 0.95 (Class 0), 0.74 (Class 1)
+* F1 Score: 0.93 (Class 0), 0.78 (Class 1)
+* ROC AUC Score: 0.9569
 
 These results show that the model performs well in predicting
 student academic performance and can help identify students who may require early academic intervention.
